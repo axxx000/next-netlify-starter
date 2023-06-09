@@ -16,14 +16,13 @@ export default function Home() {
         <code><p>A Freelance Business dedicated to helping individuals get their thing online.</p>
 
         Below is an example of the recent work completed 🚀
-        <p>
+        
         <li>Custom built in <a href="http://cargocollective.com">Cargo Collective</a> using Javascript and Jquery.  
           <ul>• <a href="http://thomasjpg.com">Thomasjpg</a></ul>
           <ul>• <a href="http://henrykingcreative.com">Henry King</a></ul>
           <ul>• <a href="http://gracemoorefilm.com">Grace Moore</a></ul>
 
         </li>
-        </p>
         </code>
         </p>
       </main>

@@ -13,8 +13,15 @@ export default function Home() {
       <main>
         <Header title="Welcome to Quiet Projects." />
         <p className="description">
-        <code>
-        </code>
+        Below is an example of the recent work completed 🚀
+        <ul>
+        <li><a href="http://thomasjpg.com">thomasjpg</a></li>
+        <li><a href="http://henrykingcreative.com">Henry King</a></li>
+        <li><a href="http://gracemoorefilm.com">Grace Moore</a></li>
+        </ul>
+
+        Using Cargo Collective with custom code (javascript / jquery)
+
         </p>
       </main>
 

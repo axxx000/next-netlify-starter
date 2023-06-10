@@ -22,6 +22,8 @@ export default function Home() {
 
         Using Cargo Collective with custom code (javascript / jquery)
 
+         *page is under construction*
+
         </p>
       </main>
 

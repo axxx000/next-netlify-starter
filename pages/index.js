@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Quiet Projects." />
         <p className="description">
-        <code><p>A Freelance Business dedicated to helping individuals get their thing online.</p>
+        <code>A Freelance Business dedicated to helping individuals get their thing online.
 
         Below is an example of the recent work completed 🚀
         
@@ -21,8 +21,8 @@ export default function Home() {
           <ul>• <a href="http://thomasjpg.com">Thomasjpg</a></ul>
           <ul>• <a href="http://henrykingcreative.com">Henry King</a></ul>
           <ul>• <a href="http://gracemoorefilm.com">Grace Moore</a></ul>
-
         </li>
+
         </code>
         </p>
       </main>
